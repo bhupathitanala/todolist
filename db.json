@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "title": "React Components - 10-10-2023",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "name": "bhupathi",
+      "id": "22",
+      "roll": "9900"
+    },
+    {
+      "username": "tester",
+      "completed": false,
+      "id": "Q1tSwZu"
+    },
+    {
+      "username": "sdfds",
+      "completed": false,
+      "id": "2gxbnld"
+    }
+  ]
+}
